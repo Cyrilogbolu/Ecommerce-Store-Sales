@@ -1,6 +1,6 @@
-# **Ecommerce Store Sales and Profit Analysis**
+# **E-commerce Store Sales Analysis**
 
-This repository contains the results of a comprehensive analysis conducted on an ecommerce store's sales and profit data. The analysis was performed using Excel, focusing on various aspects including monthly sales trends, category-wise profit margins, regional sales distribution, and top-selling subcategories.
+This repository contains the results of a comprehensive analysis conducted on an e-commerce store's sales and profit data. The analysis was performed using Excel, focusing on various aspects including monthly sales trends, category-wise profit margins, regional sales distribution, and top-selling subcategories.
 
 ## **Analysis Highlights**
 **Sales and Profit Analysis**
@@ -18,13 +18,13 @@ Pivot Table Dashboard: Visual representations of key metrics using pivot tables,
 ## **Files Included**
 - Sales_Profit_Analysis.xlsx: Excel file containing detailed data, pivot tables, and charts used for analysis.
 
-- README.md: This file providing an overview of the project and instructions for usage.
+- README.md: This file provides an overview of the project and instructions for usage.
 
 Usage
 - Clone the repository to your local machine.
 
 - Open Sales_Profit_Analysis.xlsx to view detailed analysis and visualizations.
 
-- Explore different sheets and charts to understand various aspects of the ecommerce store's performance.
+- Explore different sheets and charts to understand various aspects of the e-commerce store's performance.
 
 **Feel free to fork this repository and adapt the analysis for your own projects or further exploration.**
